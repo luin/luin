@@ -1,12 +1,11 @@
-## Hi there, I'm Zihua 👋
+## Hey there, I'm Zihua 👋
 
-I'm passionate about creating tools for developers to make their work more enjoyable.
+I'm super passionate about creating tools that make life easier and more fun for developers like you.
 
-Currently, I am focusing on WYSIWYG editor frameworks and related distributed data structures. I am primarily maintaining the Quill editor, including [Quill](https://github.com/quilljs/quill), [Parchment](https://github.com/quilljs/parchment), and [Delta](https://github.com/quilljs/delta).
+Right now, I'm all about WYSIWYG editor frameworks and related distributed data structures. I am primarily maintaining the Quill editor, including [Quill](https://github.com/quilljs/quill), [Parchment](https://github.com/quilljs/parchment), and [Delta](https://github.com/quilljs/delta).
 
-I created [ioredis](https://github.com/redis/ioredis), one of the most popular clients for Redis. It has now been adopted by the official Redis team.
+I created [ioredis](https://github.com/redis/ioredis), one of the most popular clients for Redis. It was acquired by Redis Ltd. in 2023.
 
-In addition to that, I occasionally develop macOS and iOS apps. [Medis](https://github.com/luin/medis) is a delightful and popular Redis GUI tool I developed. The first version was developed with Electron and has now been rewritten in Swift.
+Besides all that, I also dabble in making macOS and iOS apps. [Medis](https://github.com/luin/medis) is a delightful and popular Redis GUI tool I developed. The first version was developed with Electron and has now been rewritten in Swift.
 
-Feel free to explore my repositories and reach out if you have any questions!
-
+Feel free to explore my repositories and hit me up if you've got any questions or just want to chat! I'm here for you.
