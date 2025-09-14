@@ -1,4 +1,4 @@
-## Hey, I’m Zihua 👋
+## 👋
 
 I build dev tools:
 
